@@ -18,9 +18,14 @@ Moreover, writing also facilitates a person to think better. When developers lea
 
 **Increase Visibility and SEO ranking: **Simply having a blog on your website improves your Google ranking by as much as 434%! Regular blogging with high-quality content improves your Google ranking even more dramatically.
 
-Simply having a website is not enough. Google rewards sites that publish consistent, informative content that provides actual value to visitors. Freshly updated content is even better. Blogging remains the best way to pull this off.
+Having a website is not enough. Google rewards sites that publish consistent, informative content that provides actual value to visitors. Freshly updated content is even better. Blogging remains the best way to pull this off.
 
-**Identity and Personal Branding:** Starting a blog is a great way to give yourself a personality and branding as a developer. Blogging helps you reflect and share your personality to your audience which in turn helps you create a niche for yourself. It also gives you the opportunity to share knowledge with others.
+**Identity and Personal Branding:** Starting a blog is a great way to give yourself a personality and branding as a developer. Blogging helps you reflect and share your personality to your audience which in turn helps you create a niche for yourself. 
+
+When somebody searches for you online, you want to make sure that they get an accurate and complete picture of who you are and what you’re all about.
+
+Starting a blog that covers all your developer's journey is a great way to control your online identity and make sure that the top result on Google makes a right first impression.
+It also gives you the opportunity to share knowledge with others.
 
 The above are just some of the few tips that developers should consider in order to have a successful blogging experience.
 
