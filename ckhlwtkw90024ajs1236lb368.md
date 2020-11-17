@@ -1,6 +1,6 @@
 ## What successful Blogging means to me
 
-Growing up, one of the skills my father emphasize on so much as a child is the ability to write and be able to pass messages to someone else.
+Growing up, one of the skills my father emphasized on so much as a child is the ability to write and be able to pass messages to someone else.
 I grew up with this and I can nearly read anything and not want to write something down, I have so many notebooks and jotters all over my room that I can easily pick and write on at any moment in time.
 
 
