@@ -16,7 +16,8 @@ you can declare a variable by using the var keyword, variable name, the datatype
 also, there is a shorthand way of declaring variables in Go. The := syntax is shorthand for declaring and initializing a variable.
 
 
-![dabsclement (2).png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606693691952/WZUUWCbgN.png)
+
+![shorthand.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1606742613321/ML7axLlxC.png)
 
 Declaring Constants.
 The keyword **const** is used to declare a constant, the term constant in Go is used to denote fixed values.
