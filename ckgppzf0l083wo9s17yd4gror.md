@@ -1,4 +1,4 @@
-## Tips on writing a proper software product documentation
+## Tips on writing a proper software product document
 
 Apart from my day to day coding and software development studies activities. I have been having a huge love and passion for software product management lately so I decided to take a software product management specialization course on coursera courtesy of  [I4G ](https://ingressive.org/) and I'm currently on the third course out of six courses contained in the specialization.
 So in this article in will be sharing some tips on how to write a proper software product documentation.
